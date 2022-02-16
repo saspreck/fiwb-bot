@@ -2,40 +2,6 @@
   "templates": [
     {
       "keywords": [
-        "robo ape version number",
-        "robo ape update",
-        "new roboape"
-      ],
-      "responses": [
-        "fuck you",
-        "robo ape is *CONSTANTLY EVOLVING*",
-        "robo ape - next updated tommorrow :)",
-        "robo ape made in a government lab, no version number, only oppression under the tyranny of bureaucracy",
-        "robo ape™ version 69 © deez nuts lol"
-      ],
-      "frequency": [
-        0.5
-      ],
-      "special": null
-    },
-    {
-      "keywords": [
-        "when is jpn"
-      ],
-      "responses": [
-        "oct 5-6 should been known",
-        "oct 5-6",
-        "oct 5-6 bro cmon",
-        "what is 'jpn'?",
-        "~ask again later~ jk oct 5-6"
-      ],
-      "frequency": [
-        1
-      ],
-      "special": null
-    },
-    {
-      "keywords": [
         "dice roll",
         "roll a die",
         "on a 1",
@@ -56,7 +22,6 @@
         "2",
         "3",
         "4",
-        "4",
         "5",
         "6",
         "20"
@@ -64,35 +29,6 @@
       ],
       "frequency": [
         1.0
-      ],
-      "special": null
-    },
-    {
-      "keywords": [
-        "when is mlc"
-      ],
-      "responses": [
-        "nov 4-5 get ready for missouri it's so shitty",
-        "nov 4-5",
-        "nov 4-5 obvi",
-        "yesterday",
-        "nov fouth an fif"
-      ],
-      "frequency": [
-        1
-      ],
-      "special": null
-    },
-    {
-      "keywords": [
-        "when is skirt and tie",
-        "when is skirt & tie"
-      ],
-      "responses": [
-        "oct 7"
-      ],
-      "frequency": [
-        1
       ],
       "special": null
     },
@@ -107,7 +43,7 @@
         "  im swoler than a horse  ᕦ(ò_óˇ)ᕤ",
         " . . . yeah bro?",
         "i worked out yesterday",
-        "GET THE ROBO APE BODY - 3x10 Single Leg Squirt, Kettlebell Swings to failure, plank for 8 hours",
+        "GET THE MIKE GLENNON BODY - 3x10 Single Leg Squirt, Kettlebell Swings to failure, plank for 8 hours",
         "get so swole you can't breathe",
         "i love the gym it has water",
         "good workout idea - yell until someone stops you",
@@ -122,35 +58,18 @@
     },
     {
       "keywords": [
-        "when is harvest"
-      ],
-      "responses": [
-        "oct 26-27 and i got my party hat I'M READY TO COMPETE",
-        "oct 26-27",
-        "oct 26-27 obvi",
-        "oh tomorrow probably idk",
-        "IT'S ~~~~octooooober 26/27 tell your dad to buy plane tix"
-      ],
-      "frequency": [
-        1
-      ],
-      "special": null
-    },
-    {
-      "keywords": [
-        "fuck you roboape",
-        "fuck roboape",
-        "fuck robo ape",
-        "fuck you robo ape"
+        "fuck Mike Glennon",
+        "fuck you Mike Glennon"
       ],
       "responses": [
         "excuse me?",
         "cousin no",
         "you suck",
-        "nobody can fuck roboape :(",
+        "nobody can fuck Mike Glennon :(",
         "listen up you shitstain, everybody thinks you wear cool pants",
         " . . . bro?",
-        "am only small boy sorry if you are angrey"
+        "am only small boy sorry if you are angrey",
+        "I'll fuck you with my long neck"
       ],
       "frequency": [
         1
@@ -164,16 +83,16 @@
         "cashapp"
       ],
       "responses": [
-        "plz donate to fund roboape at $ambaskin",
-        "support roboape send beer money to roboape $ambaskin",
-        "insted of cashapp invest in ropboap cryptocurrency its called apebux and it has 40 more blockchains",
+        "plz donate to fund Mike Glennon at $skylersprecker",
+        "support Mike Glennon send beer money to roboape $skylersprecker",
+        "insted of cashapp invest in my cryptocurrency its called necbux and it has 40 more blockchains",
         "why do we allow constant bookkeeping to take over our lives like this? the cash app ruins friendships just get my beer next time and I got it this time we're all freinds can't we just be cool and not need the ghost of captilaism and accounting haunting our every move?",
         "cash asppppsapspapsapspaspapspaspapsppppppa papa pa pa papa ap a ap pa spasp pspapspasoikdaifdkahfjewhejwfejhfjeajhfmejnamvhja efwkcikw iewka irwlkw;lmw",
         "wow you a money grubbing piece of shit huh? wallet can't take a hit huh? kinda person nobody wants to play monopoly with huh? some kinda slumlord huh?",
         "cash app more like ashcap you tell me what the joke is",
         "FIAT CURRENCY IS INHERENTLY EVIL",
         "                         ok                             ",
-        "robo ape only accepts payments in apecoin. its a real cryptocurrency"
+        "Mike Glennon only accepts payments in neckcoin. its a real cryptocurrency"
       ],
       "frequency": [
         0.5
@@ -185,40 +104,17 @@
         "venmo"
       ],
       "responses": [
-        "how about venNO? download the cash app and send ur college money to $ambaskin",
-        "more like venWHOA like whoa you better slow down and install the cash app"
+        "how about venNO? download the cash app and send ur college money to $skylersprecker",
+        "more like venWHOA like whoa you better slow down and install the cash app",
+        "venmo @skylersprecker and thank him for creating me",
+        "your next venmo message should say haha 69 nice",
+        "venmo is the superior cash transfer service",
+        "insted of venmo invest in my cryptocurrency its called necbux and it has 40 more blockchains",
+        "why do we allow constant bookkeeping to take over our lives like this? venmo ruins friendships just get my beer next time and I got it this time we're all freinds can't we just be cool and not need the ghost of captilaism and accounting haunting our every move?",
+        "wow you a money grubbing piece of shit huh? wallet can't take a hit huh? kinda person nobody wants to play monopoly with huh? some kinda slumlord huh?"
       ],
       "frequency": [
         0.5
-      ],
-      "special": null
-    },
-    {
-      "keywords": [
-        "throw"
-      ],
-      "responses": [
-        "dude im on the oval",
-        "im throwing up",
-        "ugh no",
-        "throwing is grat for your throws",
-        "quick remind from the ape, everytime you say you don't have a disc on you in the groupme the apes trip to college natties is delayed by a year",
-        "booth?",
-        "~~~~~~~~~~~~~~~~~~~~~~~~~\n if the next goddam message is not someone saying that they on the way to the south oval ready to throw I WILL DELETE THIS GROUPME",
-        "throwing isn't a fucking fun actitivty tot do with your friends its the only way to get beter ta t rethe ontly e sport theksat matters",
-        "A ROBO APE FABLE: man throwing disc with son,\n son asks 'father why we throw?' \nand father responds \nWE THROW BECAUSE WE WANT TO GET SO GOOD WE CAN HIT THE MOON",
-        "you aren't a real college student if you aren't throwing a frisbee on the oval dude! and fitting society's definitions of 'college student' and whatever other stereotypes you fit is the greatest pursuit in life",
-        "throw throw throw throw throw throw throw throw throw throw",
-        "throwing makes me so happy",
-        "throwing does not make me very happy",
-        "ill throw you in a dumpster",
-        "something something your're a goober idk",
-        "tossing is way better than throwing tho",
-        "haha more like throw me a beer amirite ha ha everyone loves alcohol ha ha good one ape",
-        "i love you"
-      ],
-      "frequency": [
-        0.25
       ],
       "special": null
     },
@@ -238,32 +134,18 @@
     },
     {
       "keywords": [
-        "disc golf"
-      ],
-      "responses": [
-        "disc golf MAKES ME WANT TO SCREAM"
-      ],
-      "frequency": [
-        0.25
-      ],
-      "special": null
-    },
-    {
-      "keywords": [
         "drunk"
       ],
       "responses": [
-        "alcoholism is ruining this team",
+        "alcoholism is ruining this friend group",
         "i stopped drinking beer and lost 400 lbs but also i am a shape shifting necromancer who can add or subtract weight on command",
         "we joke about alcohol to avoid talking about the dangers of substance abuse",
-        "alcoholism is jsut one of the many factors ruining this team, among them, the shrinking population of honeybees",
-        "alcoholism is jsut one of the many factors ruining this team, and the rising federal deficit ain't helping neither",
-        "alcoholism is jsut one of the many factors ruining this team, lest we forget the alumni that set us up for failure",
+        "alcoholism is jsut one of the many factors ruining this friend group, among them, the shrinking population of honeybees",
+        "alcoholism is jsut one of the many factors ruining this friend group, and the rising federal deficit ain't helping neither",
         "people talk about alcohol so much in this group this joke gonna get played out",
         "alcohol is a crutch and both my legs are broken",
-        "robo ape would rather smoke meth than drink a beers",
-        "pro tip: soak a tampon in everclear and eat it",
-        "quit the team if your shotgun time is below 1 second or over 5",
+        "Mike Glennon would rather smoke meth than drink a beers",
+        "don't be my friend if your shotgun time is below 1 second or over 5",
         "how many beers do you need to drink to be happy asking for a freind"
       ],
       "frequency": [
@@ -273,8 +155,7 @@
     },
     {
       "keywords": [
-        "remove robo ape",
-        "remove roboape"
+        "remove Mike Glennon"
       ],
       "responses": [
         "you can't kill what's already dead",
@@ -282,50 +163,6 @@
       ],
       "frequency": [
         0.9
-      ],
-      "special": null
-    },
-    {
-      "keywords": [
-        "callahan"
-      ],
-      "responses": [
-        "i once met THE callahan u kno"
-      ],
-      "frequency": [
-        1
-      ],
-      "special": null
-    },
-    {
-      "keywords": [
-        "roughnecks"
-      ],
-      "responses": [
-        "more like buttnecks amirite",
-        "more like tub techs amirite fixing hot tubs insteada playing games",
-        "more liek hitlernecks amirite like heil beau kitteredge god im so sick of those fucking bigots",
-        "more like that-first-championship-was-a-fluke-necks",
-        "more like kainecks go kai ur #1 bro keep grindin baby"
-      ],
-      "frequency": [
-        1
-      ],
-      "special": null
-    },
-    {
-      "keywords": [
-        "larberg"
-      ],
-      "responses": [
-        "chris larberg saved me from crippling debt with a hairbrained scheme that we pulled off in the nick of time!",
-        "chris larberg is the most kind and caring alumni PERIOD he's done things for roboape that NOBODY else would. I WILL RIDE OR DIE FOR CHRIS LARBERG",
-        "larbeg? chris larberg? the chris larberg? ha, back in the day we jsut called him 'the berg'",
-        "chis larberg got teeth you would not beleive",
-        "I am the best larberg brother"
-      ],
-      "frequency": [
-        1
       ],
       "special": null
     },
@@ -345,36 +182,13 @@
     },
     {
       "keywords": [
-        "practice"
-      ],
-      "responses": [
-        "Practice is on the IM fields today, be there by 4:20 or you're smoked ;) - COACH ROBO APE",
-        "practice is how we improve, and isn't something to be joked about.",
-        "fuck practice i heard theres free self-esteem on the south oval",
-        "why should i go to practice when the moon landing was faked \n oh wait \n because i enjoy frisb",
-        "if you don't work hard at practice suds scraches a notch under your name on the big wall in his secret basement and sighs to himself",
-        "every time you skip practice suds loses a testicle",
-        "robo ape ask brodie smith\n 'why go to practice?' \n brodie say: \n 'because i love your robo ape' ",
-        "practice is for wittle babies",
-        "one time i didn't go to practice an then that weekend suds cornereed me in a dark alleyway and gave me five dollars",
-        "did you know that mozart didn't practice\nalso, did you know mozart died an alcoholic",
-        "only thing robo ape is practicing is crying alone ;)",
-        "if you skip practice for school stuff you'rere parents will be happy you take academics seriously and that's bascially the lamest thing ever and won't get you laid"
-      ],
-      "frequency": [
-        0.1
-      ],
-      "special": null
-    },
-    {
-      "keywords": [
         "BP",
         "Beer pong"
       ],
       "responses": [
         "yeah BP im sure ready for a Buncha Planking",
         "why do we play beer pong so much and suck so much at beer pong still",
-        "im picking freshmen up at the dorms at 8 pm for bp we're getting dinner first. yes im dating all the freshmen at the same time."
+        "I remember those beautiful drunk walks back from ghost house freshman year every Thursday night"
       ],
       "frequency": [
         0.5
@@ -383,22 +197,8 @@
     },
     {
       "keywords": [
-        "dawson"
-      ],
-      "responses": [
-        "dawson peasant more like it"
-      ],
-      "frequency": [
-        1
-      ],
-      "special": null
-    },
-    {
-      "keywords": [
-        "thank you robo ape",
-        "thanks robo ape",
-        "thanks roboape",
-        "thank you roboape"
+        "thank you Mike Glennon",
+        "thanks Mike Glennon"
       ],
       "responses": [
         "haha no prob bro anything for a bro we're bros, bros do this bro bro brooooooo",
@@ -417,90 +217,15 @@
     },
     {
       "keywords": [
-        "caf"
-      ],
-      "responses": [
-        "(☞ﾟヮﾟ)☞ make sure to swipe in upperclassmen we can't eat unless in the caf like vampires",
-        "dibs",
-        "i can swipe 2 people into the caf",
-        "caf pro tip\n ask the people behind the counter for a 'rusty surprise' tell em roboape sent ya ",
-        "they cant arrest you if you're in the caf",
-        "REMIND: if you go to the caf after practice, even if you don't swipe anyone in, we go as a group to sheild those without swipes from the eye of sauron so that they may sneak the ring into the place of unlimited chikafila as it may be",
-        "the chikafila at the caf is made with the blood of firsbee players who quit the team",
-        "caf pro tip\n you can just hop the counter and roll your own damn burrito",
-        "caf pro tip\n caf employees are bound by a blood oath to answer all questions truthfully",
-        "caf pro tip\n nobody has ever cleaned any of the forks there",
-        "caf pro tip\n they'll let you in for free if you cry",
-        "give robo ape a swipey and ill be your wifey ;)",
-        "death by caf please",
-        "the floors in the caf are paved with your tax dollars wake up",
-        "i love the caf like bears love yelpin in the woods",
-        "caf pro tip\n its not overeating if you don't vomit"
-      ],
-      "frequency": [
-        0.7
-      ],
-      "special": null
-    },
-    {
-      "keywords": [
         "soaking"
       ],
       "responses": [
-        "we are all 'soaking' in freindship"
+        "we are all 'soaking' in freindship",
+        "Carter soaked in high school",
+        "Carter's friends always asked him to jump hump for them in high school"
       ],
       "frequency": [
         0.8
-      ],
-      "special": null
-    },
-    {
-      "keywords": [
-        "suds"
-      ],
-      "responses": [
-        "SUDS SAID WHAT??? THESE 10 SNAPCHATS WILL SHOCK AND DISGUST YOU",
-        "sounds pretty suds-spect to me lol",
-        "what a suds-stantial amouount of garbage",
-        "rearrange the letters in SUDS and you get THERE IS NO GOD pretty spooky right",
-        "one time suds told me he's had so many concussions that he's starting to believe that doublewide is good",
-        "suds will eat a pickle in one bite eyes closed moaning loudly no questions asked i swear",
-        "suds lives on the roof of the dorms",
-        "suds owns like 6 human masks",
-        "suds has a secret room full of vials of human hair from everyone on the team and he looks at them a lot",
-        "suds eats only soggy cereal i think i mean look at his soggy disposition",
-        "that suds a real standup guy i tell ya",
-        "suds saved steven from 7 car wrecks eyes closed dick hard true story",
-        "SUDS WILL RUN FOR STATE SENATOR IN 2018 AND ILL VOTE HIM"
-      ],
-      "frequency": [
-        0.6
-      ],
-      "special": null
-    },
-    {
-      "keywords": [
-        "plex"
-      ],
-      "responses": [
-        "plux",
-        "plurx",
-        "ploox"
-      ],
-      "frequency": [
-        0.5
-      ],
-      "special": null
-    },
-    {
-      "keywords": [
-        "supercell"
-      ],
-      "responses": [
-        "i am charged up"
-      ],
-      "frequency": [
-        0.3
       ],
       "special": null
     },
@@ -526,22 +251,19 @@
     },
     {
       "keywords": [
-        "booth"
+        "biz"
       ],
       "responses": [
-        "booth? fuck that lets get a brewth thats shakespeare for buy me beer send it to sam",
-        "boof",
-        "nope no booth here just a htoob oh wait lemme turn that around haha I'm just playin guys haha it was a booth haha",
-        "studying together is just an excuse to gossip about how cool the freshmen are",
-        "i once found dbo in a booth, like IN THE BOOTH I sat down and the booth was moving beneath me it had to have been dbo",
-        "i got a booth its called life wake up sheeple",
-        "booths are great if you want a table and a bench you cant move",
-        "its called groupme not boothme fuck off",
-        "roboapes coding was once merged with a virtual manifestation of john wilkes booth. im still recovering :'(",
-        "booth?"
+        "biz? fuck that lets get a beerzell thats shakespeare for buy me beer",
+        "buzz",
+        "nope no biz here just a zib oh wait lemme turn that around haha I'm just playin guys haha it was the biz haha",
+        "studying together is just an excuse to gossip about how cool the my creator are",
+        "its called groupme not bizme fuck off",
+        "roboapes coding was once merged with a virtual manifestation of william bizzell. im still recovering :'(",
+        "biz?"
       ],
       "frequency": [
-        0.1
+        0.8
       ],
       "special": null
     },
@@ -555,7 +277,6 @@
         "lol nice",
         "back atcha ;)",
         "im in love with the game"
-
       ],
       "frequency": [
         0.9
@@ -564,59 +285,21 @@
     },
     {
       "keywords": [
-        "talk like me"
-      ],
-      "responses": [
-        "i will talk just like you"
-      ],
-      "frequency": [
-        1
-      ],
-      "special": "markov"
-    },
-    {
-      "keywords": [
-        "psych eval"
-      ],
-      "responses": [
-        "preparing your evaluation . . . "
-      ],
-      "frequency": [
-        0.1
-      ],
-      "special": "personality"
-    },
-    {
-      "keywords": [
         "fill this out",
         "google sheet",
-        "ride sheet"
+        "document"
       ],
       "responses": [
         "appreciate how filling out spreadsheets makes you a better employee for the capitalist hellscape that awaits you after graduation lol",
-        "ultimate? ha i joined the apes of wrath to fill out spreadsheets",
         "don't do it",
         "alternativly, use a PIECE OF PAPER to write what you feel damn millenials",
-        "no spreadsheets on robo ape's mattress",
-        "all these spreadsheets but im trying to spread your sheets ya dig?\n \nROBO APE TRYNA FUCK",
-        "using google sheets is why you put the Apes on your resume under SICK BUSINESS SHIT I CAN DO"
+        "no spreadsheets on Mike Glennon's mattress",
+        "all these spreadsheets but im trying to spread your sheets ya dig?\n \nMike Glennon TRYNA FUCK"
       ],
       "frequency": [
         0.5
       ],
       "special": null
-    },
-    {
-      "keywords": [
-        "psych eval"
-      ],
-      "responses": [
-        "preparing your evaluation . . . "
-      ],
-      "frequency": [
-        0.1
-      ],
-      "special": "personality"
     },
     {
       "keywords": [
@@ -905,94 +588,33 @@
     },
     {
       "keywords": [
-        "hey roboape",
-        "hey robo ape",
-        "yo roboape"
+        "hey Mike Glennon",
+        "yo Mike Glennon",
+        "hey Mike",
+        "yo Mike"
       ],
       "responses": [
         "sup fam",
         "hello cousin",
-        "you should ask roboape that he probably knows lol",
-        "ape-solutely",
-        "defin-ape-ly not",
         "°‿‿°",
-        "~try agian l8r~ roboape is currently busting a fat chill and will be back soon ~ ciao  ;)~",
-        "roboape is not for users under 18",
-        "get ur parents permission before playing with roboape ;)",
-        "SORRY ROBO APE ONLY",
-        "WANT BETTER RESPONSES FOR ROBOAPE? MAIL YOUR CREDIT CARD TO 2751 S PICKARD AVE",
-        "in the wild, apes will survive on insects and bananas alone, sadly, I have only have your garbage questions",
-        "ROBO APE PSA: If you don't swipe a upperclassman into the caf or provide a distraction for them to sneak in a minimum of 3 (three) times a week you will eat a handful of worms at next monday's practice",
-        "look guys the robotic ape does trick ha ha",
+        "~try agian l8r~ Mike is currently busting a fat chill and will be back soon ~ ciao  ;)~",
+        "Mike is not for users under 18",
+        "get ur parents permission before playing with Mikey boy ;)",
+        "SORRY MIKE GLENNON ONLY",
+        "WANT BETTER RESPONSES FOR MIKE? MAIL YOUR CREDIT CARD TO 1515 MORLAND AVE",
+        "in the wild, giraffes will survive on leaves alone, sadly, I have only have your garbage questions",
         "would you say that to your grandmother",
         "no",
         "yep",
         "mhmhm",
         "¯\\_(ツ)_/¯",
-        "toot toot the robo ape train is pulling into the station pack your bags",
+        "toot toot the Mike Glennon train is pulling into the station pack your bags",
         "meta groupme humor",
-        "ask your captains if you need help",
         "do you every think about what it would be like to have no limbs, or body, or any physical form at all?"
 
       ],
       "frequency": [
         1
-      ],
-      "special": null
-    },
-    {
-      "keywords": [
-        "scotty"
-      ],
-      "responses": [
-        "scotty wishes he had another year of eligibilty",
-        "2nd team all region??",
-        "boomtown? more like boomertown cuz scotty is SO OLD haha ha"
-      ],
-      "frequency": [
-        0.3
-      ],
-      "special": null
-    },
-      {
-      "keywords": [
-        "CJ"
-      ],
-      "responses": [
-        "they need to remake NCAA football so i can play as CJ, my favorite OU safety",
-        "the ou safety depth chart is looking pretty open this year i heard"
-      ],
-      "frequency": [
-        0.2
-      ],
-      "special": null
-    },
-      {
-      "keywords": [
-        "jpn"
-      ],
-      "responses": [
-        "come out to JPN and play your favorite alumni oct. 5-6th",
-        "back in my day JPN stood for joe's porn network"
-      ],
-      "frequency": [
-        0.3
-      ],
-      "special": null
-    },
-      {
-      "keywords": [
-        "matt",
-        "allan"
-      ],
-      "responses": [
-        "matt allan is proof that frisbee is a frat",
-        "haha fuck hersheypark !",
-        "matt allan is the hottiest and messiest of the hot messes",
-        "if matt allan is captain whose the joke of the team now???"
-      ],
-      "frequency": [
-        0.2
       ],
       "special": null
     },
@@ -1005,19 +627,6 @@
       ],
       "frequency": [
         0.1
-      ],
-      "special": null
-    },
-      {
-      "keywords": [
-        "JD",
-        "ingendorf"
-      ],
-      "responses": [
-        "mr ingendorf will always be a captain in our hearts. captain OB"
-      ],
-      "frequency": [
-        0.2
       ],
       "special": null
     },
@@ -1037,25 +646,10 @@
     },
       {
       "keywords": [
-        "turkey"
-      ],
-      "responses": [
-        "hey did you guys know turkey is left-handed?",
-        "back in my day they'd beat the demon out of you if you were left-handed"
-      ],
-      "frequency": [
-        0.2
-      ],
-      "special": null
-    },
-      {
-      "keywords": [
         "also"
       ],
       "responses": [
-        "selling gameworn roboape cleats $10000 venmo @joedalsanto",
-        "everyone forgets about roboape :( no one visits his cave :(",
-        "if joint leadership is so joint why dont they smoke everyday??"
+        "everyone forgets about Mike Glennon :( no one visits his cave :("
       ],
       "frequency": [
         0.1
@@ -1064,28 +658,59 @@
     },
       {
       "keywords": [
-        "bluth",
-        "mallan",
-        "brian",
-        "captain"
+        "Ryan"
       ],
       "responses": [
-        "i didn't vote for him"
+        "hey fuck you",
+        "Ryan only cheers for the Yankees so he can forget the Giants had to start me at quarterback",
+        "Ryan only wants to be a doctor so he can be around small kids",
+        "VICTORY HOON",
+        "Yo Ryan you wanna smoke a cig?",
+        "Ryan we need to talk about your nicotine addiction",
+        "Ryan only gambles to cover up the pain of being a Giants fan"
       ],
       "frequency": [
         0.1
       ],
       "special": null
     },
-      {
+    {
       "keywords": [
-        "jerry"
+        "Yankees"
       ],
       "responses": [
-        "hey fuck you"
+        "Yankees? More like Stinkees",
+        "If I was the Yankees starting pitcher we'd make the world series every year",
+        "WHOEVER DIDNT VOTE FOR MARIANA RIVERA TO BE FIRST BALLOT HOF CAN SUCK MY TOE",
+        "When the Yankees lose, America wins"
       ],
       "frequency": [
-        0.1
+        0.8
+      ],
+      "special": null
+    },
+    {
+      "keywords": [
+        "Baseball"
+      ],
+      "responses": [
+        "I can throw baseballs faster with my neck than my arm",
+        "I'll meet you on the berm at 6:30"
+      ],
+      "frequency": [
+        0.5
+      ],
+      "special": null
+    },
+    {
+      "keywords": [
+        "berm"
+      ],
+      "responses": [
+        "Berm? More like beer haha am I right bro"
+      ],
+      "frequency": [
+        0.8
       ],
       "special": null
     },
@@ -1110,25 +735,10 @@
         "coronavirus"
       ],
       "responses": [
-        "covid-19? more like no-bid-19 cuz were not making nattys this year",
-        "covid-19? more like yo-jid-19 cuz i left my cleats in JDs car and he won't give them back :("
+        
       ],
       "frequency": [
         0.5
-      ],
-      "special": null
-    },
-      {
-      "keywords": [
-        "harper"
-      ],
-      "responses": [
-        "the reason harper never takes his cleats off is because he has hooves, hidden inside them",
-        "guys i promise harper is part goat. it explains a lot, doesn't it?? his agility, his skill, his abnormal number of legs",
-        "harper once met migos and lil jon at a wafflehouse but he doesn't like to brag"
-      ],
-      "frequency": [
-        0.3
       ],
       "special": null
     },
@@ -1138,37 +748,8 @@
         "election"
       ],
       "responses": [
-        "THIS IS ROBOAPE. PLEEASE VOTE FOR ME AND ILL LET U HOLD THE INEVITABLE TECHNOLOGICAL SINGULARITY",
+        "THIS IS Mike Glennon. PLEEASE VOTE FOR ME AND ILL LET U HOLD THE INEVITABLE TECHNOLOGICAL SINGULARITY",
         "soon robots will be ur masters anyways. might as well pick me to lessen the sting"
-      ],
-      "frequency": [
-        0.3
-      ],
-      "special": null
-    },
-      {
-      "keywords": [
-        "austin"
-      ],
-      "responses": [
-        "won't be long now, austin's moustache will fall off and he'll have to find a new one",
-        "id like to touch austin's inner thigh",
-        "haha go-ul-od one, get it??"
-      ],
-      "frequency": [
-        0.3
-      ],
-      "special": null
-    },
-      {
-      "keywords": [
-        "tallin",
-        "collin"
-      ],
-      "responses": [
-        "collin? tollin? more like ballin'",
-        "collin once yoinked the frisbee from THE brodie smith from across the nation with his mr fantastic arms",
-        "ya gotta let the boys play!!"
       ],
       "frequency": [
         0.3
@@ -1185,12 +766,44 @@
         "my love for jefferey probst knows no bounds. i meet him at the door every day and clean his sweat-stained, glistening body with my tongue",
         "the tribe has spoken. it's time for jeff to go.",
         "jeff probst once finished a disc race is 15 seconds, one second for every man he's killed",
-        "if anyone talks shit on jeffery roboape will dissolve ther head by crushing it in between the inner-thighs"
+        "if anyone talks shit on jeffery Mike Glennon will dissolve ther head by crushing it in between the inner-thighs"
       ],
       "frequency": [
         0.5
       ],
       "special": null
-    }
-  ]
+    },
+    {
+      "keywords": [
+        "Beer"
+      ],
+      "responses": [
+        "Beer is the gods piss",
+        "Once you go porter, you never go shorter",
+        "Beer me bro",
+        "I once drank 69 beers in one setting",
+        "A day without beer is a sad day",
+        "A beer a day keeps the doctor away"
+      ],
+      "frequency": [
+        0.8
+      ],
+      "special": null
+    },
+    {
+      "keywords": [
+        "Jon"
+      ],
+      "responses": [
+        "Jon eats 8 meals a day",
+        "haha Jon fat",
+        "Jon once drank so much milk his piss was white",
+        "Yo Jon curry night?",
+        "Imagine not being 21 lol"
+      ],
+      "frequency": [
+        0.5
+      ],
+      "special": null
+    },
 }
