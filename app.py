@@ -17,7 +17,7 @@ def webhook():
 	data = request.get_json()
 
   # We don't want to reply to ourselves!
-	if data['name'] != 'ROBO APE':
+	if data['name'] != 'Mike Glennon':
 
 		#figure out what to send here
 		msg = botlogic.getResponse(data)
