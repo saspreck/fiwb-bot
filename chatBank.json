@@ -775,7 +775,7 @@
     },
     {
       "keywords": [
-        "Beer"
+        "beer"
       ],
       "responses": [
         "Beer is the gods piss",
@@ -786,7 +786,7 @@
         "A beer a day keeps the doctor away"
       ],
       "frequency": [
-        0.8
+        1
       ],
       "special": null
     },
