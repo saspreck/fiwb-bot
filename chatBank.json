@@ -72,7 +72,7 @@
         "I'll fuck you with my long neck"
       ],
       "frequency": [
-        1
+        1.0
       ],
       "special": null
     },
@@ -95,7 +95,7 @@
         "Mike Glennon only accepts payments in neckcoin. its a real cryptocurrency"
       ],
       "frequency": [
-        0.5
+        0.8
       ],
       "special": null
     },
@@ -114,7 +114,7 @@
         "wow you a money grubbing piece of shit huh? wallet can't take a hit huh? kinda person nobody wants to play monopoly with huh? some kinda slumlord huh?"
       ],
       "frequency": [
-        0.5
+        0.8
       ],
       "special": null
     },
@@ -211,7 +211,7 @@
         "   ur welcome  ヽ(´ー｀)ノ"
       ],
       "frequency": [
-        1
+        1.0
       ],
       "special": null
     },
@@ -235,10 +235,7 @@
       ],
       "responses": [
         "i love joe i have the best joes ask around everyone knows how much i love joe",
-        "joe, aka 'the big kahuna' of ultimate",
-        "send joe a snapchat joed1557 tell him what jams your joey yknow",
         "i have a joe on my desk and it's much bigger than yours",
-        "there is no collusion between robo ape and joe",
         "lock up crooked joe",
         "saw joe in an alleyway buying a bag full of blackmarket ultra potent goldfish no comment",
         "i heard joe is from the ukraine??? no comment???",
@@ -670,7 +667,7 @@
         "Ryan only gambles to cover up the pain of being a Giants fan"
       ],
       "frequency": [
-        0.1
+        0.8
       ],
       "special": null
     },
@@ -685,7 +682,7 @@
         "When the Yankees lose, America wins"
       ],
       "frequency": [
-        0.8
+        0.9
       ],
       "special": null
     },
@@ -786,7 +783,7 @@
         "A beer a day keeps the doctor away"
       ],
       "frequency": [
-        1
+        1.0
       ],
       "special": null
     },
@@ -802,7 +799,7 @@
         "Imagine not being 21 lol"
       ],
       "frequency": [
-        0.5
+        0.8
       ],
       "special": null
     }
