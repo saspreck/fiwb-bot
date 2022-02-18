@@ -612,7 +612,7 @@
         "do you every think about what it would be like to have no limbs, or body, or any physical form at all?"
       ],
       "frequency": [
-        1
+        1.0
       ],
       "special": null
     },
@@ -664,10 +664,11 @@
         "VICTORY HOON",
         "Yo Ryan you wanna smoke a cig?",
         "Ryan we need to talk about your nicotine addiction",
-        "Ryan only gambles to cover up the pain of being a Giants fan"
+        "Ryan only gambles to cover up the pain of being a Giants fan",
+        "I just want Ryan to love me"
       ],
       "frequency": [
-        0.8
+        1.0
       ],
       "special": null
     },
@@ -816,8 +817,6 @@
         "“yo mamma jokes out the wazoo” - Ryan",
         "“i look like the fuckn kool aid man but white” - Ryan",
         "“TELL NO ONE THUS” - Carter",
-        "“Can’t those bitches jump or some shit?” - Ryan",
-        "“that’s how arya dies, from gendry destroying her pussy” - Ryan",
         "“i fuckin stan women” - Ryan" ,
         "“I’m gonna put a hammock in my closet and call it my sex chamber” - Nate",
         "“side note, my brain went sicko mode today” - Ryan",
@@ -828,25 +827,18 @@
         "“yeah i’d suck alex’s dick” - Carter",
         "“Cliff is gonna win this shit and i’m gonna nut” - Ryan",
         "“gnaw on that shit like a salamander eating a carrot” - Nate",
-        "“imma tear into her ass” - Carter (about Ellen)",
         "“they want that emotional hog” - Carter",
         "“i do see the appeal of alcoholism” - Carter",
         "“the higher the stakes, the harder your dick” - Carter",
         "“my dicks like a filet mignon, it might not be the biggest cut, but it’s the highest quality” - Nate",
-        "“that bitch wants nathan’s famous hot dog” - Nate",
-        "“i actually know a lot about vagooters” - Nate",
-        "“i cum in her buns call that a manwich” - Nate",
         "“i hope nate is up. i wanna hug him” - Carter",
-        "“imma tie up yo tubes like a cherry stem in my mouth” - Nate",
         "“scientific fact: bitches love gunshot wounds” - Nate",
         "“it’s all pink on the inside” - Carter",
         "“suck my cracker cock” - Cade",
         "“dick so good she can’t figure it out. call that puzzle cock” - Nate",
         "“i don’t remember the context i just remember a hand on my cock and balls” - Nate",
         "“sometimes a bitch needs to get punished” - Nate (about Carter)",
-        "“you ever pelted a bitch with a rock” - Nate",
-        "“tits or ass? i’ve been gravitating towards ass more recently” - Nate as he shoves an unholy amount of spinach in his mouth",
-        "“i actually only fuck polyrhythmically. i slap the titty in triplets” - Nate",
+        "“i actually only fuck polyrhythmically” - Nate",
         "“what’s a cock when you got bars” - Nate",
         "“there’s nothing i hate more than shitting while high” - Carter",
         "“i would literally do cocaine if i could” - Colton",
@@ -860,8 +852,6 @@
         "“ryan you wanna be a bottom with me?” - David",
         "“i’m gonna spread my monster love” - Ryan",
         "“i was close going to ass hair” - Ryan",
-        "“i want a bitch that will dutch oven me, not in a sexual way” - Ryan",
-        "“i like a bitch that can fart” - Ryan",
         "“i don’t look at her political values until i look at her bmi” - Nate",
         "“i do smash mouth accounting” - Carter",
         "“if being horny is a crime, call me scarface” - Nate",
@@ -892,10 +882,10 @@
         "“i don’t like dr. pimple popper videos I just like personally doing it to others” - Ryan",
         "“i love big gay balls” - Asa",
         "“i have a cosmopolitan dick” - Nate",
-        "“i’ll tittyfuck the colt 45s” - Ryan",
         "“i’m a grungy little slut” - Nate",
         "“fuck a bootlicker, i’m a booblicker” - Ryan",
-        "“you ever rub your ear and almost cum?” - Ryan"
+        "“you ever rub your ear and almost cum?” - Ryan",
+        "“still thinking about the surf and turf…” - Ryan"
       ],
       "frequency": [
         1.0
