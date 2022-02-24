@@ -59,7 +59,8 @@
     {
       "keywords": [
         "fuck Mike Glennon",
-        "fuck you Mike Glennon"
+        "fuck you Mike Glennon",
+        "fuck you Mike"
       ],
       "responses": [
         "excuse me?",
@@ -182,7 +183,7 @@
     },
     {
       "keywords": [
-        "BP",
+        "bp",
         "beer pong"
       ],
       "responses": [
@@ -624,7 +625,7 @@
         "hey go blues"
       ],
       "frequency": [
-        0.5
+        0.1
       ],
       "special": null
     },
@@ -656,7 +657,7 @@
     },
       {
       "keywords": [
-        "Ryan"
+        "ryan"
       ],
       "responses": [
         "hey fuck you",
@@ -674,7 +675,7 @@
     },
     {
       "keywords": [
-        "Yankees"
+        "yankees"
       ],
       "responses": [
         "Yankees? More like Stinkees",
@@ -689,7 +690,7 @@
     },
     {
       "keywords": [
-        "Baseball"
+        "baseball"
       ],
       "responses": [
         "I can throw baseballs faster with my neck than my arm",
@@ -790,7 +791,7 @@
     },
     {
       "keywords": [
-        "Jon"
+        "jon"
       ],
       "responses": [
         "Jon eats 8 meals a day",
