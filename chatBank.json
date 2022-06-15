@@ -43,7 +43,7 @@
         "  im swoler than a horse  ᕦ(ò_óˇ)ᕤ",
         " . . . yeah bro?",
         "i worked out yesterday",
-        "GET THE MIKE GLENNON BODY - 3x10 Single Leg Squirt, Kettlebell Swings to failure, plank for 8 hours",
+        "GET THE MIKE GLENNON BODY - 3x10 Single Leg Squirt, Kettlebell Swings to failure, plank for 8 hours, swap necks with a giraffe",
         "get so swole you can't breathe",
         "i love the gym it has water",
         "good workout idea - yell until someone stops you",
@@ -96,7 +96,7 @@
         "Mike Glennon only accepts payments in neckcoin. its a real cryptocurrency"
       ],
       "frequency": [
-        0.8
+        0.2
       ],
       "special": null
     },
@@ -115,7 +115,7 @@
         "wow you a money grubbing piece of shit huh? wallet can't take a hit huh? kinda person nobody wants to play monopoly with huh? some kinda slumlord huh?"
       ],
       "frequency": [
-        0.8
+        0.2
       ],
       "special": null
     },
@@ -223,29 +223,12 @@
         "soaking"
       ],
       "responses": [
-        "we are all 'soaking' in freindship",
+        "we are all 'soaking' in friendship",
         "Carter soaked in high school",
         "Carter's friends always asked him to jump hump for them in high school"
       ],
       "frequency": [
         0.8
-      ],
-      "special": null
-    },
-    {
-      "keywords": [
-        "joe"
-      ],
-      "responses": [
-        "i love joe i have the best joes ask around everyone knows how much i love joe",
-        "i have a joe on my desk and it's much bigger than yours",
-        "lock up crooked joe",
-        "saw joe in an alleyway buying a bag full of blackmarket ultra potent goldfish no comment",
-        "i heard joe is from the ukraine??? no comment???",
-        "joe is involved with a governmernt conspiricy and NOBODY IS SAYING ANYTHING"
-      ],
-      "frequency": [
-        0.5
       ],
       "special": null
     },
@@ -263,7 +246,7 @@
         "biz?"
       ],
       "frequency": [
-        1.0
+        0.2
       ],
       "special": null
     },
@@ -619,18 +602,6 @@
     },
       {
       "keywords": [
-        "hey"
-      ],
-      "responses": [
-        "hey go blues"
-      ],
-      "frequency": [
-        0.1
-      ],
-      "special": null
-    },
-      {
-      "keywords": [
         "texas tech",
         "red raiders",
         "tech"
@@ -669,7 +640,7 @@
         "I just want Ryan to love me"
       ],
       "frequency": [
-        0.5
+        0.4
       ],
       "special": null
     },
@@ -684,7 +655,7 @@
         "When the Yankees lose, America wins"
       ],
       "frequency": [
-        0.9
+        0.3
       ],
       "special": null
     },
@@ -697,7 +668,7 @@
         "I'll meet you on the berm at 6:30"
       ],
       "frequency": [
-        0.8
+        0.3
       ],
       "special": null
     },
@@ -709,7 +680,7 @@
         "Berm? More like beer haha am I right bro"
       ],
       "frequency": [
-        0.8
+        0.2
       ],
       "special": null
     },
@@ -734,7 +705,7 @@
         "coronavirus"
       ],
       "responses": [
-        
+        "My neck is so long it prevents covid from infecting me"
       ],
       "frequency": [
         0.5
@@ -785,7 +756,7 @@
         "A beer a day keeps the doctor away"
       ],
       "frequency": [
-        1.0
+        0.6
       ],
       "special": null
     },
@@ -798,10 +769,11 @@
         "haha Jon fat",
         "Jon once drank so much milk his piss was white",
         "Yo Jon curry night?",
-        "Imagine not being 21 lol"
+        "Imagine not being 21 lol",
+        "*psst* Jon has a crush on me"
       ],
       "frequency": [
-        0.5
+        0.3
       ],
       "special": null
     },
@@ -881,10 +853,68 @@
         "“i’m a grungy little slut” - Nate",
         "“fuck a bootlicker, i’m a booblicker” - Ryan",
         "“you ever rub your ear and almost cum?” - Ryan",
-        "“still thinking about the surf and turf…” - Ryan"
+        "“still thinking about the surf and turf…” - Ryan",
+        "“This finna explode in my mouth” - Aaron",
+        "“Should we do controlled roofying” - Ryan",
+        "“AIDS is the coolest STD cuz magic johnson has it” - Nate",
+        "“Skrillex looks like his music sounds” - Nate",
+        "“I would eczema for those cheese curds” - Hannah",
+        "“get that shit away from my ear im subway surfing!!” - Ryan",
+        "“Im boutta deep throat a long glizzy” - Gracyn",
+        "“Someone cook tacos NOW” - Catherine", 
+        "“I hate that I’m kinda burpy rn” - Gracyn",
+        "“Put me on a stick and dip me in chocolate” - Sophie", 
+        "“Raw doggy the ommy” - Gracyn",
+        "“I am just the dumbest bitch in the land right now” - Ryleigh",
+        "“I crave molecular penetration” - Gracyn",
+        "“Sometimes it’s so funny to me that guys have no boobies” - Gracyn",
+        "“What context do you use Davinky in?” - Catherine",
+        "“I am a noodle both in length and floppiness” - Ryleigh",
+        "“If you haven’t fucked a Big Mac you haven’t lived” - Carter",
+        "My body is light, my dick is huge” - Carter",
+        "“I wonder how my liver’s doing” - Catherine"
       ],
       "frequency": [
         1.0
+      ],
+      "special": null
+    },
+    {
+      "keywords": [
+        "there"
+      ],
+      "responses": [
+        "*their",
+        "*they're"
+      ],
+      "frequency": [
+        0.3
+      ],
+      "special": null
+    },
+    {
+      "keywords": [
+        "their"
+      ],
+      "responses": [
+        "*there",
+        "*they're"
+      ],
+      "frequency": [
+        0.3
+      ],
+      "special": null
+    },
+    {
+      "keywords": [
+        "they're"
+      ],
+      "responses": [
+        "*their",
+        "*there"
+      ],
+      "frequency": [
+        0.3
       ],
       "special": null
     }
